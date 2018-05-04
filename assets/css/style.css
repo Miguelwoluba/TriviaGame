@@ -1,0 +1,16 @@
+img{
+    width: 700;
+    height: 500;
+}
+
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #dfe6e9;
+}
+
+.button {
+     width: 200;
+    height: 100;
+}
+
